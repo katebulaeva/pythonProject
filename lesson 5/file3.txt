@@ -1,0 +1,4 @@
+Ivanov 19000
+Petrov 15000
+Sidorov 40000
+Bulaeva 100000
